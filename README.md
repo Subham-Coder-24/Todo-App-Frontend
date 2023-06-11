@@ -4,3 +4,8 @@
 ## Backend link
 Getting all data 
 https://backend-eg5o.vercel.app/posts
+
+## Feature
+1. Update Post
+2. Delete Post
+3. Upload image in cloudnary
